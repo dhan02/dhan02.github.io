@@ -1,7 +1,9 @@
 body {
-	background-color: ##830dff;
+	background-color: blue;
 }
 
 h1, p {
-	color: #44ffbd;
+	color: white;
 }
+
+/*##830dff #44ffbd */
