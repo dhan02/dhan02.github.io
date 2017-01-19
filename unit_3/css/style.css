@@ -1,18 +1,24 @@
 body{
-	text-align:center;
 	font-family: Helvetica;
+	background-color: #6F54FF;
+	color: #E8A6FF;
 }
 
 h1 {
-	color: pink;
-	font-size: 20px;
+	text-align: center;
+	font-size: 25px;
 	font-weight: bold;
 }
 
 p {
-	font-size: 10px;
+	font-size: 15px;
 }
 
 img {
 	max-width: 500px;
+}
+
+#slogan {
+	text-size: 50px;
+	text-align: center;
 }
